@@ -1,6 +1,5 @@
 ## Hello there, friend! 👋🏼
-Welcome! My name is Stavros, I'm a full stack software engineer, with a MSc in Computer/Data Science. I love databases, charts, NLP and clean documentation 😅
-Currently experimenting and learning stuff related to cloud, specifically Azure. 🤔
+Welcome! My name is Stavros, I'm a full stack software engineer, with a MSc in Computer/Data Science. Mostly worked with .NET Core & React, currently looking into Azure & Cloud Services, as well as Natural Language Processing.
 
 Wanna chat? Get in touch! 🥳
 
